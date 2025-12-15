@@ -1,0 +1,9 @@
+{
+	"name": "adarshdatafactoryetl",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a26f5e9-785c-4e2e-9668-01bed314eee4",
+		"tenantId": "ebb1774c-4be0-4a7e-adbb-28ab19bd01b9"
+	}
+}
